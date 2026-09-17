@@ -15,4 +15,4 @@ while True:
     if response:
         print(response)
     else:
-        print("No response received")
+        print("No response received...")
